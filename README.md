@@ -1,2 +1,24 @@
-# COMANDOS-DE-REPETI-O
-Atividade de Logica de Programação (ADS)
+1- João Renato Freire de SiqueirA
+
+Matricula - 01874390
+----------------------------------
+2 -Jose Enthonny Oliveira Silva
+
+Matricula - 01898470
+----------------------------------
+3- Lucas Silva Conceição
+
+Matricula - 01887741
+-----------------------------------
+4- Daniel Vinicio Polanco da Costa
+
+Matricula - 01886813
+----------------------------------
+5- Emerson Esteves da Silva
+
+Matricula - 01867105
+-----------------------------------
+6- Manoel Rodrigues de Almeida Neto
+
+Matricula - 01879293
+-----------------------------------
